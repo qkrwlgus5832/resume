@@ -30,12 +30,12 @@ const profile: IProfile.Payload = {
       icon: faGithub,
     },
     {
-      link: 'https://www.instagram.com/jihtun_456',
+      link: 'https://www.instagram.com/jihyun_456',
       icon: faInstagram,
     },
   ],
   notice: {
-    title: '휴대전화나 인스타그램 메시지, 링크드인 메시지보다 이메일을 더 선호합니다',
+    title: '휴대전화나 인스타그램, 링크드인 메시지보다 이메일을 더 선호합니다',
     icon: faBell,
   },
 };
