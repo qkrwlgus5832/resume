@@ -213,6 +213,7 @@ const project: IProject.Payload = {
     {
       title: '삼성화재 연동 프로젝트',
       startedAt: '2023-12',
+      endedAt: '2024-06',
       where: '쏘카(SOCAR)',
       descriptions: [
         {
@@ -224,15 +225,31 @@ const project: IProject.Payload = {
             '손해액 처리 결과를 API로 받고, DB에 저장시키는 프로젝트(Spring Batch + cronjob 사용)',
         },
         {
-          content: 'Spring Batch를 수동으로 실행시킬 수 있는 서버 따로 구축',
-        },
-        {
           content: '성과',
           weight: 'MEDIUM',
           descriptions: [
             { content: '삼성화재 관련 고객센터 상담시간 95%감소' },
             { content: '사고기획팀 및 서비스 지원팀 리소스 절감' },
             { content: '보험료 10억 절감' },
+          ],
+        },
+      ],
+    },
+    {
+      title: '존관리시스템 행정신고 효율화 프로젝트',
+      startedAt: '2024-06',
+      where: '쏘카(SOCAR)',
+      descriptions: [
+        {
+          content: '존관리시스템 예약소 관련 행정신고 효율화 절차를 개선시키는 프로젝트',
+        },
+        {
+          content: '성과',
+          weight: 'MEDIUM',
+          descriptions: [
+            { content: '예약소 관리업무 중 존관리시스템 활용 업무리소스 절감 (0.5M/M)' },
+            { content: '예약소 업무 효율화를 통한 등록률 향상 -> 등록차고지 감소 효과' },
+            { content: '연간 1100면 절감 가정시 -> 0.55억/연 절감' },
           ],
         },
       ],
