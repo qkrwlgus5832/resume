@@ -163,7 +163,7 @@ const project: IProject.Payload = {
           descriptions: [
             { content: '하나손해보험 관련 고객센터 상담시간 95%감소' },
             { content: '사고기획팀 및 서비스 지원팀 리소스 절감' },
-            { content: '보험료 x억 절감' },
+            { content: '보험료 5억 절감' },
           ],
         },
       ],
@@ -232,7 +232,7 @@ const project: IProject.Payload = {
           descriptions: [
             { content: '삼성화재 관련 고객센터 상담시간 95%감소' },
             { content: '사고기획팀 및 서비스 지원팀 리소스 절감' },
-            { content: '보험료 x억 절감' },
+            { content: '보험료 10억 절감' },
           ],
         },
       ],
